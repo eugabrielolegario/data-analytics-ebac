@@ -4,10 +4,10 @@ This repository contains all the Data Analytics exercises that i made at [EBAC](
 
 Main subjects: Python; Data analytics; Machine learning; SQL and Cloud.
 
-## Python :snake:
+## [Python](https://github.com/gabriel-olegas/data-analytics-ebac/tree/main/python-exercises) :snake:
 
 - [x] Module 1: Variables and data types
-- [ ] Module 2: Data structures
+- [x] Module 2: Data structures
 - [ ] Module 3: Conditional statements and loops
 - [ ] Module 4: Files and functions
 - [ ] Module 5: Functional programming (FP)

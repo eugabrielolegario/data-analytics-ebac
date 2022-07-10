@@ -8,7 +8,7 @@ Main subjects: Python; Data analytics; Machine learning; SQL and Cloud.
 
 - [x] Module 1: Variables and data types
 - [x] Module 2: Data structures
-- [ ] Module 3: Conditional statements and loops
+- [x] Module 3: Conditional statements and loops
 - [ ] Module 4: Files and functions
 - [ ] Module 5: Functional programming (FP)
 - [ ] Module 6: Object-oriented programming (OOP)

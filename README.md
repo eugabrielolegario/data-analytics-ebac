@@ -12,7 +12,7 @@ Temas principais: Python; Data analytics; Machine learning; SQL and Cloud.
 - [x] Módulo 3: Fluxo Condicional & Repetição
 - [x] Módulo 4: Arquivos & Funções
 - [x] Módulo 5: Programação Funcional
-- [ ] Módulo 6: Programação Orientada a Objetos
+- [x] Módulo 6: Programação Orientada a Objetos
 - [ ] Módulo 7: Módulos & Pacotes
 - [ ] Módulo 8: Tratamento de Erros
 - [ ] Módulo 9: Scripting

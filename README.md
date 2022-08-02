@@ -50,7 +50,7 @@ Temas principais: Python; Data analytics; Machine learning; SQL and Cloud.
 - [ ] Módulo 32: Agregações
 - [ ] Módulo 33: Trabalhando com Múltiplas Tabelas
 - [ ] Módulo 34: Técnicas Avançadas
-- [ ] Módulo 35: ** Projeto Final**
+- [ ] Módulo 35: **Projeto Final**
 - [ ] Módulo 36: Visualização interativa de dados
 - [ ] Módulo 37: **Projeto: Dashboard de dados**
 

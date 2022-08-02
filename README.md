@@ -4,7 +4,7 @@ Este repositório contém todos os exercícios feitos durante o curso de "Profis
 
 Temas principais: Python; Data analytics; Machine learning; SQL and Cloud.
 
-## [Python](https://github.com/gabriel-olegas/data-analytics-ebac/tree/main/python-exercises) :snake:
+## [Python](https://github.com/eugabrielolegario/data-analytics-ebac/tree/main/exercicios-python) :snake:
 
 - [x] Módulo 0: Introdução ao Curso
 - [x] Módulo 1: Variáveis & Tipos de Dados

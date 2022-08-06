@@ -1,67 +1,67 @@
-# Repositório de exercícios e treino - EBAC
+# Exercises repository - EBAC
 
-Este repositório contém todos os exercícios feitos durante o curso de "Profissão: Analista de Dados" da [EBAC](https://ebaconline.com.br/) (Escola Britânica de Artes Criativas e Tecnologia).
+ This repository contains all the data analytics exercises made during the [EBAC's](https://ebaconline.com.br/) data analyst course. 
 
-Temas principais: Python; Data analytics; Machine learning; SQL and Cloud.
+Main subjects: Python; Data analytics; Machine learning; SQL and Cloud.
 
-## [Python](https://github.com/eugabrielolegario/data-analytics-ebac/tree/main/exercicios-python) :snake:
+## [Python](https://github.com/eugabrielolegario/data-analytics-ebac/tree/main/01_python_exercises) :snake:
 
-- [x] Módulo 0: Introdução ao Curso
-- [x] Módulo 1: Variáveis & Tipos de Dados
-- [x] Módulo 2: Estruturas de Dados
-- [x] Módulo 3: Fluxo Condicional & Repetição
-- [x] Módulo 4: Arquivos & Funções
-- [x] Módulo 5: Programação Funcional
-- [x] Módulo 6: Programação Orientada a Objetos
-- [ ] Módulo 7: Módulos & Pacotes
-- [ ] Módulo 8: Tratamento de Erros
-- [ ] Módulo 9: Scripting
+- [x] Module 0: Course introduction
+- [x] Module 1: Variables & data types
+- [x] Module 2: Data structure
+- [x] Module 3: Conditionals & loops
+- [x] Module 4: Files & functions
+- [x] Module 5: Functional programming
+- [x] Module 6: Object-oriented programming
+- [x] Module 7: Modules & packages
+- [ ] Module 8: Error & exceptions
+- [ ] Module 9: Scripting
 
 ## Data analytics 📊
 
-- [ ] Módulo 10: Coleta de Dados I
-- [ ] Módulo 11: Coleta de Dados II
-- [ ] Módulo 12: Data wrangling I
-- [ ] Módulo 13: Data wrangling II
-- [ ] Módulo 14: Visualização de dados I
-- [ ] Módulo 15:  Visualização de dados II
-- [ ] Módulo 16: **Projeto: Análise Exploratória de Dados em Python I**
-- [ ] Módulo 17: **Projeto: Análise Exploratória de Dados em Python II**
-- [ ] Módulo 18: Controle de Versão I
-- [ ] Módulo 19: Controle de Versão II
-- [ ] Módulo 20: Controle de Versão III
-- [ ] Módulo 21: Fundamentos de Matemática
-- [ ] Módulo 22: Fundamentos de Estatística
+- [ ] Module 10: Data gathering I
+- [ ] Module 11: Data gathering II
+- [ ] Module 12: Data wrangling I
+- [ ] Module 13: Data wrangling II
+- [ ] Module 14: Data visualization I
+- [ ] Module 15: Data visualization  II
+- [ ] Module 16: **Project: Exploratory data analysis in Python I**
+- [ ] Module 17: **Project: Exploratory data analysis in Python II**
+- [ ] Module 18: Version control I
+- [ ] Module 19: Version control  II
+- [ ] Module 20: Version control  III
+- [ ] Module 21: Foundations of math
+- [ ] Module 22: Foundations of statistics
 
 ## Machine learning 🤖
 
-- [ ] Módulo 23: Aprendizado de Máquina - Fundamentos
-- [ ] Módulo 24: Aprendizado de Máquina - Regressão
-- [ ] Módulo 25: Aprendizado de Máquina - Classificação
-- [ ] Módulo 26: Aprendizado de Máquina - Agrupamento
-- [ ] Módulo 27: Séries Temporais
+- [ ] Module 23: Machine learning - Foundations
+- [ ] Module 24: Machine learning - Regression
+- [ ] Module 25: Machine learning - Sorting
+- [ ] Module 26: Machine learning - Clustering
+- [ ] Module 27: Time series
 
 ## SQL 🔍
 
-- [ ] Módulo 28: Base de dados & Linguagem SQL
-- [ ] Módulo 29: Trabalhando com Tabelas
-- [ ] Módulo 30: Selecionando & Ordenando
-- [ ] Módulo 31: Filtrando & Seleção Condicional
-- [ ] Módulo 32: Agregações
-- [ ] Módulo 33: Trabalhando com Múltiplas Tabelas
-- [ ] Módulo 34: Técnicas Avançadas
-- [ ] Módulo 35: **Projeto Final**
-- [ ] Módulo 36: Visualização interativa de dados
-- [ ] Módulo 37: **Projeto: Dashboard de dados**
+- [ ] Module 28: Database & SQL
+- [ ] Module 29: Working with tables
+- [ ] Module 30: Selecting & sorting
+- [ ] Módulo 31: Conditional filters
+- [ ] Module 32: Aggregate
+- [ ] Module 33: Working with multiple tables
+- [ ] Module 34: Advanced techniques
+- [ ] Module 35: **Final project**
+- [ ] Module 36: Interactive data visualization
+- [ ] Module 37: **Project: Data dashboards**
 
 ## Cloud ☁️
 
-- [ ] Módulo 38: Computação em Nuvem I
-- [ ] Módulo 39: Computação em Nuvem II
-- [ ] Módulo 40: Computação em Nuvem III Abertura
-- [ ] Módulo 41: Big Data I - Processamento
-- [ ] Módulo 42: Big Data II - Processamento
-- [ ] Módulo 43: **Projeto: Pipeline de dados do Telegram I**
-- [ ] Módulo 44: **Projeto: Pipeline de dados nativo na nuvem II**
+- [ ] Module 38: Cloud computing I
+- [ ] Module 39: Cloud computing II
+- [ ] Module 40: Cloud computing III Opening
+- [ ] Module 41: Big Data I - Processing
+- [ ] Module 42: Big Data II - Processing
+- [ ] Module 43: **Project: Telegram's data pipeline I**
+- [ ] Module 44: **Project: Cloud-native data pipeline II**
 
 > what a week, huh?

@@ -14,7 +14,7 @@ Main subjects: Python; Data analytics; Machine learning; SQL and Cloud.
 - [x] Module 5: Functional programming
 - [x] Module 6: Object-oriented programming
 - [x] Module 7: Modules & packages
-- [ ] Module 8: Error & exceptions
+- [x] Module 8: Errors & exceptions
 - [ ] Module 9: Scripting
 
 ## Data analytics 📊

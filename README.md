@@ -25,8 +25,8 @@ Main subjects: Python; Data analytics; Machine learning; SQL and Cloud.
 - [x] Module 13: Data wrangling II
 - [x] Module 14: Data visualization I
 - [x] Module 15: Data visualization  II
-- [ ] Module 16: **Project: Exploratory data analysis in Python I**
-- [ ] Module 17: **Project: Exploratory data analysis in Python II**
+- [x] Module 16: **Project: Exploratory data analysis in Python I**
+- [x] Module 17: **Project: Exploratory data analysis in Python II**
 - [ ] Module 18: Version control I
 - [ ] Module 19: Version control  II
 - [ ] Module 20: Version control  III
